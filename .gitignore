@@ -1,0 +1,13 @@
+# Build output
+output/
+
+# Keil uVision user/session files
+*.uvgui.*
+*.uvgui_*.bak
+*.uvopt
+*_uvopt.bak
+*_uvproj.bak
+*.dep
+
+# macOS
+.DS_Store
