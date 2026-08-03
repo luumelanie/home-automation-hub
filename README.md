@@ -2,6 +2,14 @@
 
 An embedded home automation prototype built on the ARM LPC2478 microprocessor, featuring a touchscreen LCD interface for controlling motorised blinds, a smart plug, doorbell with speaker output, and light-sensor-driven automation.
 
+## System Block Diagram
+
+![Block Diagram](docs/block_diagram.png)
+
+## Control Flow
+
+![Control Flow Diagram](docs/control_flow_diagram.png)
+
 ## Features
 
 - **Touchscreen UI** — QVGA LCD with debounced touch handling and manual override controls for all connected appliances
