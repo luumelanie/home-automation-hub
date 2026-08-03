@@ -53,6 +53,3 @@ src/
 
 Open `home_automation_project.uvproj` in Keil uVision and build/flash to the LPC2478 development board.
 
-## Course
-
-DESN2000 — Engineering Design and Professional Practice, UNSW (2025)
