@@ -39,7 +39,7 @@ src/
 ├── touch.c/h           # Touchscreen driver (SPI read, calibration)
 ├── blinds.c/h          # Motorised blind control (timer + light-based)
 ├── smartplug.c/h       # Smart plug scheduling and GPIO control
-├── doorbell_new.c/h    # Doorbell button polling and playback trigger
+├── doorbell.c/h        # Doorbell button polling and playback trigger
 ├── play_tone.c/h       # DAC tone generation
 ├── songs.c/h           # Melody data for doorbell
 ├── light_sensor.c/h    # TEMT6000 ADC reading and display

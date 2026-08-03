@@ -6,7 +6,7 @@
 #include "lpc24xx.h"
 #include "timer.h"
 #include "blinds.h"
-#include "doorbell_new.h"
+#include "doorbell.h"
 #include "smartplug.h"
 #include "play_tone.h"
 #include "temt6000.h"

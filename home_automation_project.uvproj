@@ -429,9 +429,9 @@
               <FilePath>.\src\timer_asm.s</FilePath>
             </File>
             <File>
-              <FileName>doorbell_new.c</FileName>
+              <FileName>doorbell.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\src\doorbell_new.c</FilePath>
+              <FilePath>.\src\doorbell.c</FilePath>
             </File>
             <File>
               <FileName>light_sensor.c</FileName>
@@ -439,9 +439,9 @@
               <FilePath>.\src\light_sensor.c</FilePath>
             </File>
             <File>
-              <FileName>doorbell_new.h</FileName>
+              <FileName>doorbell.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\src\doorbell_new.h</FilePath>
+              <FilePath>.\src\doorbell.h</FilePath>
             </File>
             <File>
               <FileName>ui.c</FileName>
