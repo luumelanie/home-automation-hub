@@ -1,4 +1,4 @@
-#include "bubbles.h"
+#include "lcd_init.h"
 #include "touch.h"
 #include "lcd/lcd_grph.h"
 #include <stdio.h>

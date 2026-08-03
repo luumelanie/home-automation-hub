@@ -1,4 +1,4 @@
-#include "bubbles.h"
+#include "lcd_init.h"
 #include "lpc24xx.h"   
 #include "lcd/lcd_hw.h"
 #include "lcd/lcd_grph.h"

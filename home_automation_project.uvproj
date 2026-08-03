@@ -44,7 +44,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\output\</OutputDirectory>
-          <OutputName>bubblepop</OutputName>
+          <OutputName>home_automation_project</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>0</CreateHexFile>
@@ -399,9 +399,9 @@
               <FilePath>.\src\delay.c</FilePath>
             </File>
             <File>
-              <FileName>bubbles.c</FileName>
+              <FileName>lcd_init.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\src\bubbles.c</FilePath>
+              <FilePath>.\src\lcd_init.c</FilePath>
             </File>
             <File>
               <FileName>touch.c</FileName>
